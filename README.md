@@ -6,9 +6,9 @@ Você foi contratado para desenvolver uma aplicação web ou mobile para uma dis
 
 1. Criar uma API REST que seja capaz de retornar os produtos cadastrados (nome, id e quantidade) e de alterar a quantidade de um produto específico. Considere utilizar os seguintes endpoints:
 
-*GET* http://localhost:3000/produtos
+**GET** http://localhost:3000/produtos
 
-*PUT* http://localhost:3000/produtos/*1*
+**PUT** http://localhost:3000/produtos/1
 
 Considere utilizar uma lista estática em memória para armazenar e manipular os produtos.
 
@@ -22,11 +22,11 @@ Considere utilizar uma lista estática em memória para armazenar e manipular os
 ### Back-end:
 Faça um fork deste repositório e abra-o no GitPod.io. Exemplo:
 
-https://gitpod.io/#https://github.com/SEU_USUARIO/lp3-proficiencia-backend
+https://gitpod.io/#https://github.com/**SEU_USUARIO**/lp3-proficiencia-backend
 
 ### Front-end:
 
-Utilize o (Stackblitz)[https://stackblitz.com] para desenvolver a aplicação web.
+Utilize o [Stackblitz](https://stackblitz.com) para desenvolver a aplicação *web*.
 
 Boa codificação!
 Prof. Dr. Henrique Dezani
